@@ -6,9 +6,6 @@ A clean, responsive **About Me portfolio website template** built using **HTML5,
 
 ---
 
-## 📸 Preview
-![refluxme-toocss-templates](https://github.com/user-attachments/assets/e74d7832-07be-4d9d-ad1d-14b06f877b25)
-
 
 The template features:
 
